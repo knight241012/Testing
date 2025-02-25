@@ -2,7 +2,6 @@ streamlit
 openai
 python-dotenv
 requests
-beautifulsoup
 concurrent-futures
 urllib3
 regex
