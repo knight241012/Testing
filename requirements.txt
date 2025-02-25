@@ -5,3 +5,4 @@ requests
 concurrent-futures
 urllib3
 regex
+bs4
