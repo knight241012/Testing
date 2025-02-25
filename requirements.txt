@@ -1,8 +1,5 @@
 streamlit
 openai
 python-dotenv
-requests
-concurrent-futures
 urllib3
 regex
-bs4
