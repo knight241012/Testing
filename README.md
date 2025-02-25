@@ -151,7 +151,6 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## 🙏 Acknowledgments
 
-- [OpenAI](https://openai.com/) for their powerful language models
 - [Streamlit](https://streamlit.io/) for the interactive web application framework
 - [Beautiful Soup](https://www.crummy.com/software/BeautifulSoup/) for HTML parsing
 
