@@ -14,7 +14,7 @@ An interactive web application that extracts content from URLs and answers quest
 
 ## 🚀 Live Demo
 
-Try the live demo at: [https://web-content-qa.streamlit.app/](https://web-content-qa.streamlit.app/)
+Try the live demo at: [https://web-content-qa.streamlit.app/](https://testing-g4.streamlit.app/)
 
 ## 📋 How It Works
 
